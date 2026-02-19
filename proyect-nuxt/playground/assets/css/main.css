@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.foto {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px; /* opcional para que no sea gigante */
+  border-radius: 10px; /* opcional para que se vea más elegante */
+}
+
+
+.container {
+  text-align: center;
+}

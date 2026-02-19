@@ -8,7 +8,9 @@
 
     <div class="container">
       <header>
-        <img src="/img/Aldo.jpeg" alt="perfil" />
+        <img src="/img/Aldo.jpeg" class="foto" />
+
+
         <h1>ING. Dorado Solano Aldo Aragon</h1>
         <p class="description">
           ¡Hola! Soy Aldo Aragon Dorado Solano, y actualmente estoy cursando la carrera de Ingeniería en Tecnologías de la Información y Comunicación. Siempre me ha fascinado la manera en que la tecnología mueve al mundo, esta carrera no ha sido tan fácil ya que en cada materia que cursé en esta carrera ha tenido sus obstáculos, pero esforzándose en cada reto que se ha presentado he logrado salir bien de cada una de mis materias.
